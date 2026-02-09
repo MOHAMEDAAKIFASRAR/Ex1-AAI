@@ -22,8 +22,6 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-''' Type your Code here '''
-## Output:
 ```
 pip install pybbn
 ```
@@ -129,6 +127,8 @@ print("CPTs: Humidity 3PM ->{}".format(probs(df, child='Humidity3pmCat', parent1
 print("CPTs: Wind Gust Speed ->{}".format(probs(df, child='WindGustSpeedCat')))
 print("CPTs: Rain Tomorrow ->{}".format(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGustSpeedCat')))
 ```
+## Output:
+
 ## Result:
    Thus a Bayesian Network is generated using Python
 
