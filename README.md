@@ -1,8 +1,7 @@
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
-<H3> Name </H3>
-<H3>Register No.</H3>
-<H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3> Experiment 1</H3> <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+<H3> Name: Mohamed Aakif Asrar S</H3>
+<H3>Register No: 212223240088</H3>
+<H3>DATE: 09/02/2026</H3>
 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
