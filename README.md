@@ -128,6 +128,9 @@ print("CPTs: Wind Gust Speed ->{}".format(probs(df, child='WindGustSpeedCat')))
 print("CPTs: Rain Tomorrow ->{}".format(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGustSpeedCat')))
 ```
 ## Output:
+<img width="715" height="654" alt="image" src="https://github.com/user-attachments/assets/99bd455d-0420-47c0-992e-ba5676c61e33" />
+<img width="745" height="801" alt="image" src="https://github.com/user-attachments/assets/d1386f27-47c2-4c78-8353-8e182036d0b9" />
+<img width="1050" height="144" alt="image" src="https://github.com/user-attachments/assets/360cfd25-f35e-4870-b501-8409e90c456f" />
 
 ## Result:
    Thus a Bayesian Network is generated using Python
